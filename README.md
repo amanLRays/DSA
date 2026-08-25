@@ -6,9 +6,9 @@ This repository contains my solutions to LeetCode problems implemented in Java.
 
 Each file is named according to the LeetCode problem number:
 
-- Leetcode1.java  → Solution for Problem #1
-- Leetcode2.java  → Solution for Problem #2
-- Leetcode3.java  → Solution for Problem #3
+- Leetcode26_removeDuplicates.java  → Solution for Problem #26
+- Leetcode121_buySell_1.java  → Solution for Problem #121
+- Leetcode122_buySell_2.java  → Solution for Problem #122
 - ...
 
 To view the original question, search the problem number on LeetCode.
